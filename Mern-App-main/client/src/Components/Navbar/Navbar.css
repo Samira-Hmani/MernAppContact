@@ -1,0 +1,22 @@
+.nav-link {
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: orange !important;
+}
+
+.active-link {
+  color: orange !important;
+  /* font-weight: bold; */
+}
+
+.login-btn {
+  border: 1px solid #899b9c !important;
+  color: #9cb0b1 !important;
+}
+
+.login-btn:hover {
+  background-color: #899b9c !important;
+  color: white !important;
+}
